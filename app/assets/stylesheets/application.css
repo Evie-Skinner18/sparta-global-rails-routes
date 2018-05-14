@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ .coltrane {
+   width: 35%;
+   height: 40%;
+ }
